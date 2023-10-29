@@ -1,5 +1,7 @@
 # 365 Days of Coding
 
+<img src="https://github.com/Andrew32A/365-days-of-coding/blob/main/images/streak.png" align="center">
+<img src="https://github.com/Andrew32A/365-days-of-coding/blob/main/images/contributions.png" align="center">
 <img src="https://github.com/Andrew32A/365-days-of-coding/blob/main/images/snake-light.svg" align="center">
 
 Exactly one year ago on October 29th, 2022, I decided to code every day and commit that code to GitHub. When I started, I barely knew how to program in Python and knew some of the basics of HTML and CSS. Since then, I've learned many languages, my tech stack grew astronomically, achieved a 4.0 GPA in my first year of college, and landed two internships. I've also made many amazing friends and met incredible people along the way. I wanted to make this to share my journey and breakdown what I learned over the past year!
@@ -14,7 +16,7 @@ Exactly one year ago on October 29th, 2022, I decided to code every day and comm
 ## Stats and Accomplishments
 
 - Made 112 repositories
-- Total of 2,053 contributions
+- Total of 1,920 (2,053 overall) contributions
 - Achieved a total of 10 stars across all repos
 - Landed 2 internships, one at [Campus Dive](https://campusdive.com/) as a Full Stack SWE and one at [Sisu VR](http://www.sisuvr.com/) as a Unity VR SWE
 - Took ~12 classes per semester to help graduate as soon as possible
