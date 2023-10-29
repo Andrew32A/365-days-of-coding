@@ -7,7 +7,7 @@ Exactly one year ago on October 29th, 2022, I decided to code every day and comm
 ## What I've added to my tech stack
 
 - Languages: Javascript, Java, C#, Swift, Python, HTML, CSS, mySQL/SQLite, Bash
-- Frameworks: React, React Native, Node.js, Express.js, Prisma, GraphQL, NextJS, Flask, Tailwind, Saas, Bootstrap, Firebase, MongoDB, MySQL, PostgreSQL, Pandas, Numpy, Matplotlib, Tensorflow, Bookeh
+- Frameworks: React, React Native, Node.js, Express.js, Prisma, GraphQL, NextJS, Flask, Tailwind, Saas, Bootstrap, Firebase, MongoDB, Postgres, Pandas, Numpy, Matplotlib, Tensorflow, Bookeh
 - Programs: Git, GitHub, VSCode, XCode, Unity, Unreal Engine 5, Blender, Figma, Notion, Trello, Gimp, Krita, Aesprite
 - Misc: Docker, Heroku, Vercel, and many more I probably missed
 
