@@ -1,5 +1,8 @@
 # 365 Days of Coding
 
+<img src="https://github.com/Andrew32A/365-days-of-coding/blob/main/images/snake-dark.svg" align="center">
+<img src="https://github.com/Andrew32A/365-days-of-coding/blob/main/images/snake-light.svg" align="center">
+
 Exactly one year ago on October 29th, 2022, I decided to code every day and commit that code to GitHub. When I started, I barely knew how to program in Python and knew some of the basics of HTML and CSS. Since then, I've learned many languages, my tech stack grew astronomically, achieved a 4.0 GPA in my first year of college, and landed two internships. I've also made many amazing friends and met incredible people along the way. I wanted to make this to share my journey and breakdown what I learned over the past year!
 
 ## What I've added to my tech stack
