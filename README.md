@@ -16,7 +16,7 @@ Exactly one year ago on October 29th, 2022, I decided to code every day and comm
 ## Stats and Accomplishments
 
 - Made 112 repositories
-- Total of 1,920 (2,053 overall) contributions
+- Total of 1,920 (2,063 overall) contributions
 - Achieved a total of 10 stars across all repos
 - Landed 2 internships, one at [Campus Dive](https://campusdive.com/) as a Full Stack SWE and one at [Sisu VR](http://www.sisuvr.com/) as a Unity VR SWE
 - Took ~12 classes per semester to help graduate as soon as possible
